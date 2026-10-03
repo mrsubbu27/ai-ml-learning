@@ -1,35 +1,39 @@
-# NumPy for AI/ML – Learning & Assessment
+# AI/ML Learning & Assignments
 
-This repository contains my NumPy learning and assessment work completed as part of the **Calibo AI Academy** training program.
+This repository contains my learning and assessment work in Artificial Intelligence and Machine Learning, completed as part of the Calibo AI Academy training program.
 
-## Topics Covered
+## Current Work
 
-- NumPy arrays and vectorization
-- Element-wise and matrix multiplication
-- Broadcasting
-- Indexing and slicing
-- Array shape, size, and dimensions
-- Aggregation with axes
-- Normalization and standardization
-- Handling missing values with `NaN`
-- Reproducible random data generation
-- Image and image-batch operations
-- Linear model prediction and Mean Squared Error (MSE)
-- Data preprocessing pipelines
-- Debugging NumPy-based model code
-- Per-column normalization
-- Vectorized score classification
+- **NumPy** → NumPy learning and assessment
+- **Pandas** → Pandas learning and assignments
+- **SQL** → SQL practice and assignments using MySQL Workbench
 
-## Notebook
-
-**`NumPy_for_AI_ML_GitHub.ipynb`** contains the questions, explanations, implementations, outputs, and practical AI/ML-oriented NumPy tasks.
-
-## Tools
+## Tools & Technologies
 
 - Python
 - NumPy
-- Jupyter Notebook
+- Pandas
+- SQL
+- MySQL Workbench
+- Visual Studio Code with Jupyter Notebook
 
 ## Purpose
 
-The goal of this repository is to document my practical learning and demonstrate my ability to apply NumPy concepts to numerical computing and introductory AI/ML tasks.
+The purpose of this repository is to document my learning journey, assignments, practical exercises, and hands-on work in AI/ML.
+
+## Repository Structure
+
+
+```text
+ai-ml-learning/
+│
+├── NumPy/
+│   └── NumPy_for_AI_ML_GitHub.ipynb
+│
+├── Pandas/
+│   └── Pandas learning and assignments
+│
+├── SQL/
+│   └── SQL assignments and practice
+│
+└── README.md
